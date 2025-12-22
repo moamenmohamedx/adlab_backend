@@ -1,0 +1,7 @@
+uvicorn
+starlette
+pydantic-ai-slim[ag-ui]>=1.0.15
+pydantic-ai-slim[openai]>=1.0.15
+python-dotenv
+logfire>=4.10.0
+
