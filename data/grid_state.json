@@ -1,0 +1,41 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "product_name": "Demo Product",
+      "product_type": "General",
+      "key_points": "Enhanced cloud-native solution with AI capabilities"
+    },
+    {
+      "id": 2,
+      "product_name": "DataSync Pro",
+      "product_type": "Service",
+      "key_points": "Real-time data synchronization across platforms"
+    },
+    {
+      "id": 3,
+      "product_name": "CloudStorage X",
+      "product_type": "Storage",
+      "key_points": "Scalable and secure cloud storage solution."
+    },
+    {
+      "id": 4,
+      "product_name": "AI Analyzer",
+      "product_type": "Software",
+      "key_points": "Intelligent analytics powered by machine learning."
+    },
+    {
+      "id": 5,
+      "product_name": "WebSync Service",
+      "product_type": "Service",
+      "key_points": "Seamless web data synchronization for applications."
+    },
+    {
+      "id": 6,
+      "product_name": "Apple",
+      "product_type": "Physical Product",
+      "key_points": "It is the best phone."
+    }
+  ],
+  "next_id": 7
+}
